@@ -1,3 +1,7 @@
+# Multimodal tranning challenge
+- [Challenge description](https://github.com/LecbychMichal/Technical-assessment---multimodal-data-prediction/blob/main/candidateschallenge/candidate_challenge.pdf)
+
+
 This repository houses the code and models developed for a multimodal prediction task leveraging tabular, text, and image data. The primary exploration and training methodology are detailed within the 'main.ipynb' Jupyter Notebook. This README provides instructions for building and running the inference Docker containers for both Task 1 and Task 2.
 
 
